@@ -5,7 +5,7 @@ My matte-black theme for Google Chrome and Mozilla Firefox
 # Links
 [Chrome](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja)
 
-[Firefox_1](https://addons.mozilla.org/en-US/firefox/addon/matte-black-theme/)
+[Firefox 1](https://addons.mozilla.org/en-US/firefox/addon/matte-black-theme/)
 
 [Firefox 2](https://addons.mozilla.org/en-US/firefox/addon/matte-black-v2/)
 # Screenshot
