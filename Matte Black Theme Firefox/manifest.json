@@ -13,7 +13,7 @@
             "headerURL": "Firefox Header.png"
         },
         "colors": {
-            "accentcolor": "rgba(2, 65, 199, 1)",
+            "accentcolor": "rgba(18, 18, 18, 1)",
             "textcolor": "rgba(136, 136, 136, 1)",
             "toolbar": "rgba(35, 35, 35, 1)",
             "toolbar_text": "rgba(255, 255, 255, 1)",
