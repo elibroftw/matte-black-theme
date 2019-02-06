@@ -1,5 +1,5 @@
 {
-    "name": "Matte Black",
+    "name": "Matte Black V2",
     "author": "Elijah Lopez",
     "manifest_version": 2,
     "version": "6",
@@ -8,11 +8,11 @@
             "accentcolor": "rgba(18, 18, 18, 1)",
             "textcolor": "rgba(170, 170, 170, 1)",
             "toolbar": "rgba(35, 35, 35, 1)",
-            "toolbar_text": "rgba(170, 170, 170, 1)",
+            "toolbar_text": "rgba(255, 255, 255, 1)",
             "tab_text":  "rgba(255, 255, 255, 1)",
             "tab_line": "rgba(35, 35, 35, 1)",
             "toolbar_field": "rgba(18, 18, 18, 1)",
-            "toolbar_field_text": "rgba(200, 200, 200, 1)",
+            "toolbar_field_text": "rgba(255, 255, 255, 1)",
             "ntp_background": "rgba(18, 18, 18, 1)",
             "ntp_text": "rgba(136, 136, 136, 1)",
             "popup": "rgba(18, 18, 18, 1)",
@@ -20,9 +20,9 @@
             "popup_highlight": "#21252B",
             "popup_highlight_text": "rgba(255, 255, 255, 1)",
             "sidebar": "rgba(35, 35, 35, 1)",
-            "sidebar_text":  "rgba(170, 170, 170, 1)",
+            "sidebar_text":  "rgba(255, 255, 255, 1)",
             "sidebar_highlight": "#21252B",
-            "sidebar_highlight_text": "rgba(170, 170, 170, 1)"
+            "sidebar_highlight_text": "rgba(255, 255, 255, 1)"
         }
     }
 }
