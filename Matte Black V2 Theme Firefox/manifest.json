@@ -2,11 +2,8 @@
     "name": "Matte Black V2",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "7",
+    "version": "8",
     "theme": {
-        "images": {
-            "headerURL": "Firefox Header.png"
-        },
         "colors": {
             "accentcolor": "rgba(18, 18, 18, 1)",
             "textcolor": "rgba(170, 170, 170, 1)",
