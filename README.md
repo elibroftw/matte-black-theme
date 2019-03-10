@@ -1,7 +1,5 @@
 [![Firefox 1](https://img.shields.io/amo/users/matte-black-theme.svg?label=Firefox%201&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/matte-black-theme/)
-
 [![Firefox 2](https://img.shields.io/amo/users/matte-black-v2.svg?label=Firefox%202&style=for-the-badge)](https://addons.mozilla.org/firefox/addon/matte-black-v2/)
-
 [![Chrome](https://img.shields.io/chrome-web-store/users/ioadlgcadgdbcchobmhlipionnphmfja.svg?label=Chrome&style=for-the-badge)](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja)
 
 <p align="center">
