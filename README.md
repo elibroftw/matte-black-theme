@@ -1,7 +1,4 @@
 # Matte Black Theme
-<p align="center">
-  <img src="https://github.com/elibroftw/matte-black-theme/blob/master/Matte%20Black%20Theme%20Resources/Promotional%20Image%203.png" alt="Matte Black Theme Header Image" height="150px"/>
-<br>
 
 [![Firefox 1](https://img.shields.io/amo/users/matte-black-theme.svg?label=Firefox%201&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/matte-black-theme/)
 [![Firefox 2](https://img.shields.io/amo/users/matte-black-v2.svg?label=Firefox%202&style=for-the-badge)](https://addons.mozilla.org/firefox/addon/matte-black-v2/)
