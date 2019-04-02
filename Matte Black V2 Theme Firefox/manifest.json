@@ -4,11 +4,14 @@
     "manifest_version": 2,
     "version": "8",
     "theme": {
+        "images": {
+            "theme_frame": "Firefox Header.png"
+        },
         "colors": {
-            "accentcolor": "rgba(18, 18, 18, 1)",
-            "textcolor": "rgba(170, 170, 170, 1)",
+            "frame": "rgba(0, 0, 0, 1)",
+            "tab_background_text": "rgba(170, 170, 170, 1)",
             "toolbar": "rgba(35, 35, 35, 1)",
-            "toolbar_text": "rgba(255, 255, 255, 1)",
+            "bookmark_text": "rgba(255, 255, 255, 1)",
             "tab_text":  "rgba(255, 255, 255, 1)",
             "tab_line": "rgba(35, 35, 35, 1)",
             "toolbar_field": "rgba(18, 18, 18, 1)",
