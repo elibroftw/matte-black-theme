@@ -2,7 +2,7 @@
     "name": "Matte Black",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "9",
+    "version": "10",
     "theme": {
         "images": {
             "theme_frame": "Firefox Header.png"
@@ -10,10 +10,15 @@
         "colors": {
             "frame": "rgba(0, 0, 0, 1)",
             "tab_background_text": "rgba(170, 170, 170, 1)",
+
+            "tab_text":  "rgba(255, 255, 255, 1)",
+            "tab_line": "rgba( 40, 83, 255, 1)",
+            
             "toolbar": "rgba(35, 35, 35, 1)",
             "bookmark_text": "rgba(170, 170, 170, 1)",
-            "tab_text":  "rgba(255, 255, 255, 1)",
-            "tab_line": "rgba(52, 152, 219, 1)",
+            "toolbar_top_separator": "rgba(35, 35, 35, 1)",
+            "toolbar_bottom_separator": "rgba(35, 35, 35, 1)",
+            "toolbar_vertical_separator": "rgba(35, 35, 35, 1)",
             
             "toolbar_field": "rgba(18, 18, 18, 1)",
             "toolbar_field_text": "rgba(200, 200, 200, 1)",
@@ -23,10 +28,10 @@
             "toolbar_field_border_focus": "rgba(30, 30, 30, 1)",
 
             "button_background_hover": "rgba(255, 255, 255, 0.12)",
-            "button_background_active": "rgba(255, 255, 255, 0.4)",
+            "button_background_active": "rgba(255, 255, 255, 0.2)",
 
             "popup": "rgba(18, 18, 18, 1)",
-            "popup_text": "rgba(255, 255, 255, 1)",
+            "popup_text": "rgba(200, 200, 200, 1)",
             "popup_border": "rgba(18, 18, 18, 1)",
             "popup_highlight": "#21252B",
             "popup_highlight_text": "rgba(255, 255, 255, 1)",
