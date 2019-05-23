@@ -2,7 +2,7 @@
     "name": "Matte Black",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "10",
+    "version": "10.1",
     "theme": {
         "images": {
             "theme_frame": "Firefox Header.png"
@@ -28,7 +28,7 @@
             "toolbar_field_border_focus": "rgba(30, 30, 30, 1)",
 
             "button_background_hover": "rgba(255, 255, 255, 0.12)",
-            "button_background_active": "rgba(255, 255, 255, 0.2)",
+            "button_background_active": "rgba(255, 255, 255, 0.15)",
 
             "popup": "rgba(18, 18, 18, 1)",
             "popup_text": "rgba(200, 200, 200, 1)",
