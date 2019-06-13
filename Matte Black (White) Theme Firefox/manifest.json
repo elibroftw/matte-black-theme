@@ -2,11 +2,8 @@
     "name": "Matte Black V2",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "10",
+    "version": "10.3",
     "theme": {
-        "images": {
-            "theme_frame": "Firefox Header.png"
-        },
         "colors": {
             "frame": "rgba(0, 0, 0, 1)",
             "tab_background_text": "rgba(170, 170, 170, 1)",
