@@ -1,5 +1,5 @@
 {
-    "name": "Matte Black (Blue)",
+    "name": "Dark Knight Joker",
     "author": "Elijah Lopez",
     "manifest_version": 2,
     "version": "2019.8.31",
@@ -8,17 +8,17 @@
             "frame": "rgba(0, 0, 0, 1)",
             "frame_inactive": "rgba(36, 36, 36, 1)",
 
-            "tab_text": "rgba(255, 255, 255, 1)",
-            "tab_background_text": "rgba(170, 170, 170, 1)",
+            "tab_text": "#00FF00",
+            "tab_background_text": "#1d9b1d",
             
-            "tab_line": "rgba(40, 83, 255, 1)",
-            "tab_loading": "rgba(40, 83, 255, 1)",
-            
+            "tab_line": "rgb(138, 43, 226)",
+            "tab_loading": "rgb(138, 43, 226)",
+
             "toolbar": "rgba(35, 35, 35, 1)",
             "toolbar_top_separator": "rgba(35, 35, 35, 1)",
             "toolbar_bottom_separator": "rgba(35, 35, 35, 1)",
             "toolbar_vertical_separator": "rgba(35, 35, 35, 1)",
-            
+
             "toolbar_field": "rgba(18, 18, 18, 1)",
             "toolbar_field_text": "rgba(200, 200, 200, 1)",
             "toolbar_field_border": "rgba(18, 18, 18, 1)",
@@ -30,7 +30,7 @@
             "button_background_hover": "rgba(255, 255, 255, 0.12)",
             "button_background_active": "rgba(255, 255, 255, 0.15)",
 
-            "bookmark_text": "rgba(170, 170, 170, 1)",
+            "bookmark_text": "#228B22",
 
             "popup": "rgba(18, 18, 18, 1)",
             "popup_text": "rgba(200, 200, 200, 1)",
@@ -39,7 +39,7 @@
             "popup_highlight_text": "rgba(255, 255, 255, 1)",
 
             "ntp_background": "rgba(18, 18, 18, 1)",
-            "ntp_text": "rgba(136, 136, 136, 1)",
+            "ntp_text": "#228B22",
 
             "sidebar": "rgba(35, 35, 35, 1)",
             "sidebar_text": "rgba(170, 170, 170, 1)",
