@@ -7,6 +7,13 @@
 My Matte Black theme for Mozilla Firefox and Google Chrome
 
 # Screenshots
-<img src="https://raw.githubusercontent.com/elibroftw/matte-black-theme/master/Matte%20Black%20Theme%20Resources/Firefox%20Screenshot.jpg" alt="Firefox (Red Accent)" height="500px"/>
+<!-- <img src="https://raw.githubusercontent.com/elibroftw/matte-black-theme/master/Matte%20Black%20Theme%20Resources/Firefox%20Screenshot.jpg" alt="Firefox (Red Accent)" height="500px"/> -->
 
-<img src="https://raw.githubusercontent.com/elibroftw/matte-black-theme/master/Matte%20Black%20Theme%20Resources/Screenshot%201.jpg" alt="Chrome Screenshot" height="500px"/>
+<p align="center">
+  <img height="500px" src="https://raw.githubusercontent.com/elibroftw/matte-black-theme/master/Matte%20Black%20Theme%20Resources/Firefox%20Screenshot.jpg" alt="Firefox (Red Accent)">
+</p>
+
+<p align="center">
+  <img height="500px" src="https://raw.githubusercontent.com/elibroftw/matte-black-theme/master/Matte%20Black%20Theme%20Resources/Screenshot%201.jpg" alt="Chrome Screenshot">
+</p>
+<!-- <img src="https://raw.githubusercontent.com/elibroftw/matte-black-theme/master/Matte%20Black%20Theme%20Resources/Screenshot%201.jpg" alt="Chrome Screenshot" height="500px"/> -->
