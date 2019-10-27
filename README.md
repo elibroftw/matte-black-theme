@@ -22,6 +22,8 @@ My Matte Black theme for Mozilla Firefox and Google Chrome
 
 [Firefox Matte Black (Pink)](https://addons.mozilla.org/firefox/addon/matte-black-pink/)
 
+[Firefox Matte Black (Cyan)](https://addons.mozilla.org/firefox/addon/matte-black-cyan/)
+
 [Firefox Dark Knight Joker](https://addons.mozilla.org/firefox/addon/dark-knight-joker-theme/)
 
 
