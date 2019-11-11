@@ -1,5 +1,5 @@
 {
-    "version": "1.7",
+    "version": "11.10.2019",
     "description": "A modern Matte Black theme",
     "manifest_version": 2,
     "name": "Matte Black Theme",
@@ -13,6 +13,7 @@
         "colors": {
             "frame": [0, 0, 0],
             "toolbar": [35, 35, 35],
+            "toolbar_button_icon": [120, 120, 120],
             "tab_background_text": [170, 170, 170],
             "tab_text": [255, 255, 255],
             "background_tab_inactive": [18, 18, 18],
@@ -26,10 +27,14 @@
             "ntp_section_link_underline": [136, 136, 136],
             "ntp_section_text": [136, 136, 136],
             "ntp_text": [136, 136, 136],
-            "bookmark_text": [170, 170, 170]
+            "bookmark_text": [170, 170, 170],
+            
+            "omnibox_background": [18, 18, 18],
+            "omnibox_text": [200, 200, 200]
         },
 
         "tints": {
+            "buttons": [-1, 0.5, 0.5],
             "background_tab": [-1, 0.5, 0],
             "background_tab_incognito": [-1, 0.5, 0]
         },
