@@ -2,11 +2,11 @@
     "name": "Matte Black (Blue)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2019.8.31",
+    "version": "2019.12.4",
     "theme": {
         "colors": {
             "frame": "rgba(0, 0, 0, 1)",
-            "frame_inactive": "rgba(36, 36, 36, 1)",
+            "frame_inactive": "rgba(0, 0, 0, 1)",
 
             "tab_text": "rgba(255, 255, 255, 1)",
             "tab_background_text": "rgba(170, 170, 170, 1)",
