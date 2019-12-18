@@ -1,5 +1,5 @@
 {
-    "name": "Matte Black (Cyan)",
+    "name": "Matte Black (Classic Blue)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
     "version": "2019.12.18",
@@ -10,9 +10,9 @@
 
             "tab_text": "rgba(255, 255, 255, 1)",
             "tab_background_text": "rgba(170, 170, 170, 1)",
-
-            "tab_line": "#00ffff",
-            "tab_loading": "#00ffff",
+            
+            "tab_line": "rgba(15, 76, 129, 1)",
+            "tab_loading": "rgba(15, 76, 129, 1)",
             
             "toolbar": "rgba(35, 35, 35, 1)",
             "toolbar_top_separator": "rgba(35, 35, 35, 1)",
