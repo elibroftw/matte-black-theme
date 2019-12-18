@@ -1,18 +1,22 @@
-# Matte Black Theme
+# Matte Black Themes
 [![Matte Black (White)](https://img.shields.io/amo/users/matte-black-v2.svg?label=Firefox&style=for-the-badge&color=black)](https://addons.mozilla.org/firefox/addon/matte-black-v2/)
 [![Chrome](https://img.shields.io/chrome-web-store/users/ioadlgcadgdbcchobmhlipionnphmfja.svg?label=Chrome&style=for-the-badge&color=black)](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja)
 
-My Matte Black theme for Mozilla Firefox and Google Chrome
+Matte black themes I made for Firefox and Chrome
 
-# Links
+# All Links
+
+[Chrome Matte Black Theme](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja)
 
 [Firefox Matte Black (Red)](https://addons.mozilla.org/en-US/firefox/addon/matte-black-red/)
 
 [Firefox Matte Black (White)](https://addons.mozilla.org/firefox/addon/matte-black-v2/)
 
-[Chrome Matte Black Theme](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja)
-
 [Firefox Matte Black (Blue)](https://addons.mozilla.org/firefox/addon/matte-black-theme/)
+
+[Firefox Matte Black (Classic Blue)](../matte-black-theme/Releases/matte_black_classic_blue-2019.12.18-an+fx.xpi)
+
+[Firefox Matte Black (Cyan)](../matte-black-theme/Releases/matte_black_cyan-2019.12.18-an+fx.xpi)
 
 [Firefox Matte Black (Grey)](https://addons.mozilla.org/firefox/addon/matte-black-grey/)
 
@@ -22,10 +26,7 @@ My Matte Black theme for Mozilla Firefox and Google Chrome
 
 [Firefox Matte Black (Pink)](https://addons.mozilla.org/firefox/addon/matte-black-pink/)
 
-[Firefox Matte Black (Cyan)](https://addons.mozilla.org/firefox/addon/matte-black-cyan/)
-
 [Firefox Dark Knight Joker](https://addons.mozilla.org/firefox/addon/dark-knight-joker-theme/)
-
 
 # Screenshots
 <!-- <img src="https://raw.githubusercontent.com/elibroftw/matte-black-theme/master/Matte%20Black%20Theme%20Resources/Firefox%20Screenshot.jpg" alt="Firefox (Red Accent)" height="500px"/> -->
