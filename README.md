@@ -4,7 +4,7 @@
 
 Matte black themes I made for Firefox and Chrome
 
-# All Links
+# Links
 
 [Chrome Matte Black Theme](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja)
 
