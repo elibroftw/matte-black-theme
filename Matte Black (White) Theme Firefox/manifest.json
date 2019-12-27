@@ -2,7 +2,7 @@
     "name": "Matte Black (White)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2019.12.4",
+    "version": "2019.12.27",
     "theme": {
         "colors": {
             "frame": "rgba(0, 0, 0, 1)",
@@ -41,7 +41,7 @@
             "popup_highlight_text": "rgba(255, 255, 255, 1)",
 
             "ntp_background": "rgba(18, 18, 18, 1)",
-            "ntp_text": "rgba(136, 136, 136, 1)",
+            "ntp_text": "rgba(170, 170, 170, 1)",
 
             "sidebar": "rgba(35, 35, 35, 1)",
             "sidebar_text": "rgba(255, 255, 255, 1)",
