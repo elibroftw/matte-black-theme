@@ -14,7 +14,7 @@ Matte black themes I made for Firefox and Chrome
 
 [Firefox Matte Black (Blue)](https://addons.mozilla.org/firefox/addon/matte-black-theme/)
 
-[Firefox Matte Black (Classic Blue)](Releases/matte_black_classic_blue-2019.12.18-an+fx.xpi)
+[Firefox Matte Black (Classic Blue)](https://github.com/elibroftw/matte-black-theme/blob/master/Releases/matte_black_classic_blue-2019.12.18-an+fx.xpi)
 
 [Firefox Matte Black (Cyan)](https://github.com/elibroftw/matte-black-theme/blob/master/Releases/matte_black_cyan-2019.12.27-an%2Bfx.xpi)
 
