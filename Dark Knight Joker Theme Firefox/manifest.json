@@ -8,8 +8,8 @@
             "frame": "rgba(0, 0, 0, 1)",
             "frame_inactive": "rgba(0, 0, 0, 1)",
 
-            "tab_text": "#00FF00",
-            "tab_background_text": "#1d9b1d",
+            "tab_text": "#00ff00",
+            "tab_background_text": "#16b516",
             
             "tab_line": "rgb(138, 43, 226)",
             "tab_loading": "rgb(138, 43, 226)",
