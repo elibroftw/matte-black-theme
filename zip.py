@@ -15,8 +15,9 @@ for folder in build_folders:
             zf.write(f'{file}', os.path.basename(file))
 
 
-folder = 'Matte Black Theme Chrome'
-with ZipFile(f'Builds/{folder}.zip', 'w') as zf:
+chrome_folders = {'Matte Black Theme Chrome', 'Plexus Crystals Chrome'}
+for folder in chrome_folders:
+    with ZipFile(f'Builds/{folder}.zip', 'w') as zf:
         for file in glob(f'{folder}/*'):
             zf.write(f'{file}', os.path.basename(file))
         for icon in os.listdir(f'{folder}/icons'):  # add icons to archive
