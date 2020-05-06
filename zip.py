@@ -8,7 +8,7 @@ os.makedirs('Builds')
 
 colors = {'Cyan', 'Pink', 'Blue', 'Classic Blue', 'Grey', 'Orange', 'Red', 'Violet', 'White'}
 colors = {f'Matte Black ({color}) Theme Firefox' for color in colors}
-build_folders = {'Dark Knight Joker Theme Firefox'}.union(colors)
+build_folders = {'Dark Knight Joker Theme Firefox', 'Plexus Crystals Firefox', 'Plexus Lines Firefox', 'Plexus Beams Firefox'}.union(colors)
 for folder in build_folders:
     with ZipFile(f'Builds/{folder}.zip', 'w') as zf:
         for file in glob(f'{folder}/*'):
