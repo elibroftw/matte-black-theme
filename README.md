@@ -11,9 +11,9 @@ Browser themes I made for Firefox and Chrome
 [Chrome Matte Black](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja) | 
 [Firefox Matte Black (Red)](https://addons.mozilla.org/firefox/addon/matte-black-red/)
 
-[Firefox Matte Black (White)](https://addons.mozilla.org/firefox/addon/matte-black-v2/) | [Firefox Matte Black (Grey)](https://addons.mozilla.org/firefox/addon/matte-black-grey/)
+[Firefox Matte Black (White)](https://addons.mozilla.org/firefox/addon/matte-black-theme/) | [Firefox Matte Black (Grey)](https://addons.mozilla.org/firefox/addon/matte-black-grey/)
 
-[Firefox Matte Black (Blue)](https://addons.mozilla.org/firefox/addon/matte-black-theme/) | [Firefox Matte Black (Classic Blue)](https://github.com/elibroftw/matte-black-theme/blob/master/Releases/matte_black_classic_blue-2019.12.18-an+fx.xpi)
+[Firefox Matte Black (Blue)](https://addons.mozilla.org/firefox/addon/matte-black-blue/) | [Firefox Matte Black (Classic Blue)](https://github.com/elibroftw/matte-black-theme/blob/master/Releases/matte_black_classic_blue-2019.12.18-an+fx.xpi)
 
 [Firefox Matte Black (Violet)](https://addons.mozilla.org/firefox/addon/matte-black-violet/) | [Firefox Dark Knight Joker](https://addons.mozilla.org/firefox/addon/dark-knight-joker-theme/)
 
@@ -30,8 +30,7 @@ Browser themes I made for Firefox and Chrome
 
 ### Planned
 
-- Plexus lines
-- Plexus beams
+- More colors
 
 <!-- # Screenshots -->
 <!-- <img src="https://raw.githubusercontent.com/elibroftw/matte-black-theme/master/Matte%20Black%20Theme%20Resources/Firefox%20Screenshot.jpg" alt="Firefox (Red Accent)" height="500px"/> -->
