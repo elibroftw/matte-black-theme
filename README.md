@@ -2,7 +2,7 @@
 [![Matte Black (White)](https://img.shields.io/amo/users/matte-black-red.svg?label=Firefox&style=for-the-badge&color=black)](https://addons.mozilla.org/firefox/addon/matte-black-red/)
 [![Chrome](https://img.shields.io/chrome-web-store/users/ioadlgcadgdbcchobmhlipionnphmfja.svg?label=Chrome&style=for-the-badge&color=black)](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja)
 
-Browser themes I made for Firefox and Chrome. Support me at [http://elopez.me/donate](http://elopez.me/donate)
+Browser themes I made for Firefox and Chrome. Thank you for supporting me at [http://elopez.me/donate](http://elopez.me/donate)
 
 # Download Links
 
