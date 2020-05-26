@@ -26,7 +26,10 @@ Browser themes I made for Firefox and Chrome. Thank you for supporting me at [ht
 ## Plexus Series *NEW*
 
 [Chrome Plexus Crystals](https://chrome.google.com/webstore/detail/ojmfjbdihaiihhfgoepflhbkcoepdmob/) | 
-[Firefox Plexus Crystals](https://addons.mozilla.org/firefox/addon/plexus-crystals-turquoise/) | Personal Favorite
+[Firefox Plexus Crystals (Turqouise)](https://addons.mozilla.org/firefox/addon/plexus-crystals-turquoise/) | Personal Favorite
+
+[Firefox Plexus Crystals (Orange)](https://addons.mozilla.org/firefox/addon/plexus-crystals-orange/)
+[Firefox Plexus Crystals (Yellow)](https://addons.mozilla.org/firefox/addon/plexus-crystals-yellow/)
 
 ### Planned
 
