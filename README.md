@@ -8,7 +8,7 @@ Browser themes I made for Firefox and Chrome. Thank you for supporting me at [ht
 
 ## Matte Black Series
 
-[Chrome Matte Black](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja) | 
+[Chrome Matte Black](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja) |
 [Firefox Matte Black (Red)](https://addons.mozilla.org/firefox/addon/matte-black-red/)
 
 [Firefox Matte Black (White)](https://addons.mozilla.org/firefox/addon/matte-black-theme/) | [Firefox Matte Black (Grey)](https://addons.mozilla.org/firefox/addon/matte-black-grey/)
@@ -23,9 +23,11 @@ Browser themes I made for Firefox and Chrome. Thank you for supporting me at [ht
 
 [Firefox Matte Black (Cyan)](https://github.com/elibroftw/matte-black-theme/blob/master/Releases/matte_black_cyan-2019.12.27-an%2Bfx.xpi)
 
+[Firefox Matte Black (Sky Blue)](https://github.com/elibroftw/matte-black-theme/blob/master/Releases/matte_black_sky_blue-2020.6.11-an%2Bfx.xpi)
+
 ## Plexus Series *NEW*
 
-[Chrome Plexus Crystals](https://chrome.google.com/webstore/detail/ojmfjbdihaiihhfgoepflhbkcoepdmob/) | 
+[Chrome Plexus Crystals](https://chrome.google.com/webstore/detail/ojmfjbdihaiihhfgoepflhbkcoepdmob/) |
 [Firefox Plexus Crystals (Turqouise)](https://addons.mozilla.org/firefox/addon/plexus-crystals-turquoise/) | Personal Favorite
 
 [Firefox Plexus Crystals (Orange)](https://addons.mozilla.org/firefox/addon/plexus-crystals-orange/)
