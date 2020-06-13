@@ -1,8 +1,8 @@
 {
-    "name": "Plexus Lines (Turquoise)",
+    "name": "Plexus Crystals (Sky Blue)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2020.5.8",
+    "version": "2020.6.12",
     "theme": {
         "images": {
             "theme_frame": "header.png"
@@ -14,14 +14,14 @@
             "tab_text": "rgba(255, 255, 255, 1)",
             "tab_background_text": "rgba(255, 255, 255, 1)",
 
-            "tab_line": "#00ffff",
-            "tab_loading": "#00ffff",
-            
+            "tab_line": "#00bfff",
+            "tab_loading": "#00bfff",
+
             "toolbar": "rgba(35, 35, 35, 1)",
             "toolbar_top_separator": "rgba(35, 35, 35, 1)",
             "toolbar_bottom_separator": "rgba(35, 35, 35, 1)",
             "toolbar_vertical_separator": "rgba(35, 35, 35, 1)",
-            
+
             "toolbar_field": "rgba(18, 18, 18, 1)",
             "toolbar_field_text": "rgba(200, 200, 200, 1)",
             "toolbar_field_border": "rgba(18, 18, 18, 1)",

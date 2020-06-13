@@ -32,6 +32,7 @@ Browser themes I made for Firefox and Chrome. Thank you for supporting me at [ht
 
 [Firefox Plexus Crystals (Orange)](https://addons.mozilla.org/firefox/addon/plexus-crystals-orange/)
 [Firefox Plexus Crystals (Yellow)](https://addons.mozilla.org/firefox/addon/plexus-crystals-yellow/)
+[Firefox Plexus Crystals (Sky Blue)](https://addons.mozilla.org/en-CA/firefox/addon/plexus-crystals-sky-blue/)
 
 ### Planned
 
