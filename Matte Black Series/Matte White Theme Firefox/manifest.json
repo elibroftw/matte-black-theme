@@ -1,0 +1,51 @@
+{
+    "name": "Matte White",
+    "author": "Elijah Lopez",
+    "manifest_version": 2,
+    "version": "2020.6.15",
+    "theme": {
+        "colors": {
+            "frame": "#f2f3f4",
+            "frame_inactive": "#f1f2f3",
+
+            "tab_text": "#000",
+            "tab_background_text": "rgb(80, 80, 80)",
+
+            "tab_line": "#00bfff",
+            "tab_loading": "#00bfff",
+
+            "toolbar": "#fff",
+            "toolbar_top_separator": "rgba(220, 220, 220, 1)",
+            "toolbar_bottom_separator": "rgba(220, 220, 220, 1)",
+            "toolbar_vertical_separator": "rgba(220, 220, 220, 1)",
+
+            "toolbar_field": "#f2f3f4",
+            "toolbar_field_text": "#000",
+            "toolbar_field_border": "#fff",
+            "toolbar_field_separator": "rgba(230, 230, 230, 0.2)",
+
+            "toolbar_field_focus": "rgb(230, 230, 230)",
+            "toolbar_field_border_focus": "rgb(220, 220, 220)",
+
+            "button_background_hover": "rgba(50, 50, 50, 0.12)",
+            "button_background_active": "rgba(50, 50, 50, 0.15)",
+
+            "bookmark_text": "rgb(80, 80, 80)",
+
+            "popup": "rgb(230, 230, 230)",
+            "popup_text": "rgb(90, 90, 90)",
+            "popup_border": "rgb(230, 230, 230)",
+            "popup_highlight": "rgba(190, 190, 190, 0.5)",
+            "popup_highlight_text": "#000",
+
+            "ntp_background": "rgb(230, 230, 230)",
+            "ntp_text": "rgb(80, 80, 80)",
+
+            "sidebar": "rgb(200, 200, 200)",
+            "sidebar_text": "rgb(90, 90, 90)",
+            "sidebar_border": "rgb(230, 230, 230)",
+            "sidebar_highlight": "#fff",
+            "sidebar_highlight_text": "#000"
+        }
+    }
+}
