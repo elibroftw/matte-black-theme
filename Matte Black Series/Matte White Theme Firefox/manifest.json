@@ -2,7 +2,7 @@
     "name": "Matte White",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2020.6.15",
+    "version": "2020.6.23",
     "theme": {
         "colors": {
             "frame": "#f2f3f4",
@@ -15,9 +15,9 @@
             "tab_loading": "#00bfff",
 
             "toolbar": "#fff",
-            "toolbar_top_separator": "rgba(220, 220, 220, 1)",
-            "toolbar_bottom_separator": "rgba(220, 220, 220, 1)",
-            "toolbar_vertical_separator": "rgba(220, 220, 220, 1)",
+            "toolbar_top_separator": "rgb(220, 220, 220)",
+            "toolbar_bottom_separator": "rgb(220, 220, 220)",
+            "toolbar_vertical_separator": "rgb(220, 220, 220)",
 
             "toolbar_field": "#f2f3f4",
             "toolbar_field_text": "#000",
@@ -27,9 +27,9 @@
             "toolbar_field_focus": "rgb(230, 230, 230)",
             "toolbar_field_border_focus": "rgb(220, 220, 220)",
 
-            "button_background_hover": "rgba(50, 50, 50, 0.12)",
-            "button_background_active": "rgba(50, 50, 50, 0.15)",
-
+            "button_background_hover": "rgba(200, 200, 200, 0.12)",
+            "button_background_active": "rgba(255, 255, 255, 0.15)",
+            "icons": "rgb(255, 255, 255)",
             "bookmark_text": "rgb(80, 80, 80)",
 
             "popup": "rgb(230, 230, 230)",
