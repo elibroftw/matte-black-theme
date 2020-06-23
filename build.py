@@ -17,7 +17,6 @@ def build_zips(series_name):
                 zf.write(file, new_name)
 
 
-series_lst = {'Matte Black Series', 'Plexus Series'}
+series_lst = {'Matte Black Series', 'Plexus Series', 'Carbon Fiber Series'}
 for series in series_lst:
     build_zips(series)
-    

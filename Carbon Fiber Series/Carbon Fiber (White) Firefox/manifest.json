@@ -1,0 +1,54 @@
+{
+    "name": "Carbon Fiber (White)",
+    "author": "Elijah Lopez",
+    "manifest_version": 2,
+    "version": "2020.6.23",
+    "theme": {
+        "images": {
+            "theme_frame": "header.png"
+        },
+        "colors": {
+            "frame": "rgb(0, 0, 0)",
+            "frame_inactive": "rgb(0, 0, 0)",
+
+            "tab_text": "rgb(255, 255, 255)",
+            "tab_background_text": "rgb(255, 255, 255)",
+
+            "tab_line": "#fff",
+            "tab_loading": "#fff",
+
+            "toolbar": "rgba(0, 0, 0, 0)",
+            "toolbar_top_separator": "rgb(0, 0, 0, 0)",
+            "toolbar_bottom_separator": "rgb(35, 35, 35)",
+            "toolbar_vertical_separator": "rgb(35, 35, 35)",
+
+            "toolbar_field": "rgb(18, 18, 18)",
+            "toolbar_field_text": "rgb(200, 200, 200)",
+            "toolbar_field_border": "rgb(18, 18, 18)",
+            "toolbar_field_separator": "rgba(18, 18, 18, 0.2)",
+
+            "toolbar_field_focus": "rgb(18, 18, 18)",
+            "toolbar_field_border_focus": "rgb(30, 30, 30)",
+
+            "button_background_hover": "rgba(255, 255, 255, 0.15)",
+            "button_background_active": "rgba(255, 255, 255, 0.3)",
+            "icons": "rgb(220, 220, 220)",
+            "bookmark_text": "rgb(180, 180, 180)",
+
+            "popup": "rgb(18, 18, 18)",
+            "popup_text": "rgb(200, 200, 200)",
+            "popup_border": "rgb(18, 18, 18)",
+            "popup_highlight": "#21252B",
+            "popup_highlight_text": "rgb(255, 255, 255)",
+
+            "ntp_background": "rgb(18, 18, 18)",
+            "ntp_text": "rgb(180, 180, 180)",
+
+            "sidebar": "rgb(35, 35, 35)",
+            "sidebar_text": "rgb(180, 180, 180)",
+            "sidebar_border": "rgb(18, 18, 18)",
+            "sidebar_highlight": "#21252B",
+            "sidebar_highlight_text": "rgb(180, 180, 180)"
+        }
+    }
+}
