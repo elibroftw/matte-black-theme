@@ -2,7 +2,7 @@
     "name": "Matte Black (Orange)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2020.6.23",
+    "version": "2020.6.25",
     "theme": {
         "colors": {
             "frame": "rgb(0, 0, 0)",
@@ -29,7 +29,7 @@
 
             "button_background_hover": "rgba(200, 200, 200, 0.12)",
             "button_background_active": "rgba(255, 255, 255, 0.15)",
-            "icons": "rgb(120, 120, 120)",
+            "icons": "rgb(169, 169, 169)",
             "bookmark_text": "rgb(170, 170, 170)",
 
             "popup": "rgb(18, 18, 18)",

@@ -2,7 +2,7 @@
     "name": "Plexus Crystals (Sky Blue)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2020.6.23",
+    "version": "2020.6.25",
     "theme": {
         "images": {
             "theme_frame": "header.png"
@@ -32,7 +32,7 @@
 
             "button_background_hover": "rgba(200, 200, 200, 0.12)",
             "button_background_active": "rgba(255, 255, 255, 0.15)",
-            "icons": "rgb(120, 120, 120)",
+            "icons": "rgb(169, 169, 169)",
             "bookmark_text": "rgb(180, 180, 180)",
 
             "popup": "rgb(18, 18, 18)",

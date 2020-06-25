@@ -2,7 +2,7 @@
     "name": "Matte White",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2020.6.23",
+    "version": "2020.6.25",
     "theme": {
         "colors": {
             "frame": "#f2f3f4",
@@ -29,7 +29,7 @@
 
             "button_background_hover": "rgba(200, 200, 200, 0.12)",
             "button_background_active": "rgba(255, 255, 255, 0.15)",
-            "icons": "rgb(255, 255, 255)",
+            "icons": "rgb(18, 18, 18)",
             "bookmark_text": "rgb(80, 80, 80)",
 
             "popup": "rgb(230, 230, 230)",

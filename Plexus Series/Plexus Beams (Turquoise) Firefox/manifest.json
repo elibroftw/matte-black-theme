@@ -32,7 +32,7 @@
 
             "button_background_hover": "rgba(200, 200, 200, 0.12)",
             "button_background_active": "rgba(255, 255, 255, 0.15)",
-            "icons": "rgb(140, 140, 140)",
+            "icons": "rgb(169, 169, 169)",
             "bookmark_text": "rgba(180, 180, 180, 1)",
 
             "popup": "rgba(18, 18, 18, 1)",
