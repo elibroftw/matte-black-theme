@@ -1,5 +1,5 @@
 {
-    "version": "2019.10.11",
+    "version": "2020.8.22",
     "description": "A modern Matte Black theme",
     "manifest_version": 2,
     "name": "Matte Black Theme",
@@ -10,6 +10,9 @@
         "128": "icons/icon128.png"
     },
     "theme": {
+        "images": {
+            "theme_ntp_background" : "images/ntp.png"
+        },
         "colors": {
             "frame": [0, 0, 0],
             "toolbar": [35, 35, 35],
