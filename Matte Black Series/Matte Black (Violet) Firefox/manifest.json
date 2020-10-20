@@ -2,7 +2,7 @@
     "name": "Matte Black (Violet)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2020.6.25",
+    "version": "2020.10.20",
     "theme": {
         "colors": {
             "frame": "rgb(0, 0, 0)",
@@ -10,9 +10,11 @@
 
             "tab_text": "rgb(255, 255, 255)",
             "tab_background_text": "rgb(170, 170, 170)",
+            "tab_background_separator": "rgba(255, 255, 255, 0.5)",
 
             "tab_line": "rgb(138, 43, 226)",
-            "tab_loading": "rgb(211, 211, 211)",
+            "tab_loading": "rgb(138, 43, 226)",
+            "icons_attention": "rgb(138, 43, 226)",
 
             "toolbar": "rgb(35, 35, 35)",
             "toolbar_top_separator": "rgb(35, 35, 35)",

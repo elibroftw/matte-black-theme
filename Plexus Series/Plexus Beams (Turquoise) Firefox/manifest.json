@@ -2,7 +2,7 @@
     "name": "Plexus Beams (Turquoise)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2020.6.23",
+    "version": "2020.10.20",
     "theme": {
         "images": {
             "theme_frame": "header.png"
@@ -13,9 +13,11 @@
 
             "tab_text": "rgba(255, 255, 255, 1)",
             "tab_background_text": "rgba(255, 255, 255, 1)",
+            "tab_background_separator": "rgba(255, 255, 255, 0.5)",
 
             "tab_line": "#00ffff",
             "tab_loading": "#00ffff",
+            "icons_attention": "#00ffff",
 
             "toolbar": "rgba(35, 35, 35, 1)",
             "toolbar_top_separator": "rgba(35, 35, 35, 1)",
