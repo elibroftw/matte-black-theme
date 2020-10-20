@@ -2,7 +2,7 @@
     "name": "Carbon Fiber (White)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2020.6.23",
+    "version": "2020.10.20",
     "theme": {
         "images": {
             "theme_frame": "header.png"
@@ -13,9 +13,11 @@
 
             "tab_text": "rgb(255, 255, 255)",
             "tab_background_text": "rgb(255, 255, 255)",
+            "tab_background_separator": "rgba(255, 255, 255, 0.5)",
 
             "tab_line": "#fff",
             "tab_loading": "#fff",
+            "icons_attention": "#fff",
 
             "toolbar": "rgba(0, 0, 0, 0)",
             "toolbar_top_separator": "rgb(0, 0, 0, 0)",
