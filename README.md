@@ -9,35 +9,28 @@ You can support me at [http://elopez.me/donate](http://elopez.me/donate)
 
 ## Matte Black Series
 
-[Chrome Matte Black](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja) |
-[Firefox Matte Black (Red)](https://addons.mozilla.org/addon/matte-black-red/)
+- [Chrome Matte Black](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja)
+- [Firefox Matte Black (Red)](https://addons.mozilla.org/addon/matte-black-red/)
+- [Firefox Matte Black (Orange)](https://addons.mozilla.org/addon/matte-black-orange/)
+- [Firefox Matte Black (White)](https://addons.mozilla.org/addon/matte-black-theme/)
+- [Firefox Matte Black (Grey)](https://addons.mozilla.org/addon/matte-black-grey/)
+- [Firefox Matte Black (Blue)](https://addons.mozilla.org/firefox/addon/matte-black-blue/)
+- [Firefox Matte Black (Classic Blue)](https://github.com/elibroftw/matte-black-theme/releases)
+- [Firefox Matte Black (Sky Blue)](https://addons.mozilla.org/addon/matte-black-sky-blue/) | Personal Favorite
+- [Firefox Matte Black (Cyan)](https://github.com/elibroftw/matte-black-theme/releases)
+- [Firefox Matte Black (Violet)](https://addons.mozilla.org/addon/matte-black-violet/)
+- [Firefox Dark Knight Joker](https://addons.mozilla.org/addon/dark-knight-joker-theme/)
+- [Firefox Matte Black (Pink)](https://addons.mozilla.org/addon/matte-black-pink/)
 
-[Firefox Matte Black (White)](https://addons.mozilla.org/addon/matte-black-theme/) | [Firefox Matte Black (Grey)](https://addons.mozilla.org/addon/matte-black-grey/)
 
-[Firefox Matte Black (Blue)](https://addons.mozilla.org/firefox/addon/matte-black-blue/) | [Firefox Matte Black (Classic Blue)](https://github.com/elibroftw/matte-black-theme/blob/master/Releases/matte_black_classic_blue-2019.12.18-an+fx.xpi)
 
-[Firefox Matte Black (Violet)](https://addons.mozilla.org/addon/matte-black-violet/) | [Firefox Dark Knight Joker](https://addons.mozilla.org/addon/dark-knight-joker-theme/)
+## Plexus Series
+- [Chrome Plexus Crystals](https://chrome.google.com/webstore/detail/ojmfjbdihaiihhfgoepflhbkcoepdmob/)
+- [Firefox Plexus Crystals (Sky Blue)](https://addons.mozilla.org/addon/plexus-crystals-sky-blue/) | Personal Favorite
+- [Firefox Plexus Crystals (Turqouise)](https://addons.mozilla.org/addon/plexus-crystals-turquoise/)
+- [Firefox Plexus Crystals (Orange)](https://addons.mozilla.org/addon/plexus-crystals-orange/)
+- [Firefox Plexus Crystals (Yellow)](https://addons.mozilla.org/addon/plexus-crystals-yellow/)
 
-[Firefox Matte Black (Orange)](https://addons.mozilla.org/addon/matte-black-orange/)
-
-[Firefox Matte Black (Pink)](https://addons.mozilla.org/addon/matte-black-pink/)
-
-[Firefox Matte Black (Cyan)](https://github.com/elibroftw/matte-black-theme/blob/master/Releases/matte_black_cyan-2019.12.27-an%2Bfx.xpi)
-
-[Firefox Matte Black (Sky Blue)](https://addons.mozilla.org/addon/matte-black-sky-blue/)
-
-## Plexus Series *NEW*
-
-[Chrome Plexus Crystals](https://chrome.google.com/webstore/detail/ojmfjbdihaiihhfgoepflhbkcoepdmob/) |
-[Firefox Plexus Crystals (Turqouise)](https://addons.mozilla.org/addon/plexus-crystals-turquoise/)
-
-[Firefox Plexus Crystals (Orange)](https://addons.mozilla.org/addon/plexus-crystals-orange/)
-[Firefox Plexus Crystals (Yellow)](https://addons.mozilla.org/addon/plexus-crystals-yellow/)
-[Firefox Plexus Crystals (Sky Blue)](https://addons.mozilla.org/addon/plexus-crystals-sky-blue/) | Personal Favorite
-
-### Planned
-
-- Matte White
 
 <!-- # Screenshots -->
 <!-- <img src="https://raw.githubusercontent.com/elibroftw/matte-black-theme/master/Matte%20Black%20Theme%20Resources/Firefox%20Screenshot.jpg" alt="Firefox (Red Accent)" height="500px"/> -->
