@@ -1,9 +1,8 @@
 {
-    "version": "2020.8.22",
+    "version": "2020.11.16",
     "description": "A theme made using Plexus",
     "manifest_version": 2,
     "name": "Plexus Crystals (Sky Blue)",
-    "short_name": "Matte Black",
     "icons": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
