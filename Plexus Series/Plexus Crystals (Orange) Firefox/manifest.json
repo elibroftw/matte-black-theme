@@ -2,7 +2,7 @@
     "name": "Plexus Crystals (Orange)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2020.10.20",
+    "version": "2021.1.16",
     "theme": {
         "images": {
             "theme_frame": "header.png"
@@ -22,7 +22,7 @@
             "toolbar": "rgb(35, 35, 35)",
             "toolbar_top_separator": "rgb(35, 35, 35)",
             "toolbar_bottom_separator": "rgb(35, 35, 35)",
-            "toolbar_vertical_separator": "rgb(35, 35, 35)",
+            "toolbar_vertical_separator": "rgb(170, 170, 170)",
 
             "toolbar_field": "rgb(18, 18, 18)",
             "toolbar_field_text": "rgb(200, 200, 200)",
