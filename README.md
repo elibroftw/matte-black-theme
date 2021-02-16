@@ -1,6 +1,6 @@
 # My Themes for Chromium and Firefox
 [![Matte Black (White)](https://img.shields.io/amo/users/matte-black-red.svg?label=Firefox&style=for-the-badge&color=black)](https://addons.mozilla.org/addon/matte-black-red/)
-[![Chrome](https://img.shields.io/chrome-web-store/users/ioadlgcadgdbcchobmhlipionnphmfja.svg?label=Chrome&style=for-the-badge&color=black)](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja)
+[![Chrome](https://img.shields.io/chrome-web-store/users/ioadlgcadgdbcchobmhlipionnphmfja.svg?label=Chrome&style=for-the-badge&color=black)](https://chrome.google.com/webstore/detail/ioadlgcadgdbcchobmhlipionnphmfja)
 
 Here are the themes I made for Firefox and Chrome.
 You can support me at monero:42hpQgwfvFw6RXpmcXHBJ85cZs9yF97kqfV3JpycnanG7JazfdL4WHkVLuR8rcM64q6LHt547nKeeYaixBdCQYaHSuEnAuj or [https://www.paypal.me/elibroftw](https://www.paypal.me/elibroftw).
@@ -8,21 +8,20 @@ You can support me at monero:42hpQgwfvFw6RXpmcXHBJ85cZs9yF97kqfV3JpycnanG7JazfdL
 # Links
 
 ## Matte Black Series
-
-- [Chrome Matte Black](https://chrome.google.com/webstore/detail/matte-black-theme/ioadlgcadgdbcchobmhlipionnphmfja)
+- [Chrome Matte Black](https://chrome.google.com/webstore/detail/ioadlgcadgdbcchobmhlipionnphmfja)
 - [Firefox Matte Black (Red)](https://addons.mozilla.org/addon/matte-black-red/)
 - [Firefox Matte Black (Orange)](https://addons.mozilla.org/addon/matte-black-orange/)
 - [Firefox Matte Black (White)](https://addons.mozilla.org/addon/matte-black-theme/)
 - [Firefox Matte Black (Grey)](https://addons.mozilla.org/addon/matte-black-grey/)
-- [Firefox Matte Black (Blue)](https://addons.mozilla.org/firefox/addon/matte-black-blue/)
+- [Firefox Matte Black (Blue)](https://addons.mozilla.org/addon/matte-black-blue/)
 - [Firefox Matte Black (Classic Blue)](https://github.com/elibroftw/matte-black-theme/releases)
 - [Firefox Matte Black (Sky Blue)](https://addons.mozilla.org/addon/matte-black-sky-blue/) | Personal Favorite
 - [Firefox Matte Black (Cyan)](https://github.com/elibroftw/matte-black-theme/releases)
 - [Firefox Matte Black (Violet)](https://addons.mozilla.org/addon/matte-black-violet/)
 - [Firefox Dark Knight Joker](https://addons.mozilla.org/addon/dark-knight-joker-theme/)
 - [Firefox Matte Black (Pink)](https://addons.mozilla.org/addon/matte-black-pink/)
-
-
+- [Firefox Matte Black (Green)](https://addons.mozilla.org/addon/matte-black-green/)
+- [Firefox Matte Black (Spring Green)](https://addons.mozilla.org/addon/matte-black-spring-green/)
 
 ## Plexus Series
 - [Chrome Plexus Crystals](https://chrome.google.com/webstore/detail/ojmfjbdihaiihhfgoepflhbkcoepdmob/)
