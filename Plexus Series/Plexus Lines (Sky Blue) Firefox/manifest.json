@@ -1,11 +1,11 @@
 {
-    "name": "Plexus Beams (Turquoise)",
+    "name": "Plexus Crystals (Sky Blue)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2021.1.16",
+    "version": "2021.3.11",
     "theme": {
         "images": {
-            "theme_frame": "header.png"
+            "additional_backgrounds": ["header.png"]
         },
         "colors": {
             "frame": "rgb(0, 0, 0)",
@@ -27,7 +27,7 @@
             "toolbar_field": "rgb(18, 18, 18)",
             "toolbar_field_text": "rgb(200, 200, 200)",
             "toolbar_field_border": "rgb(18, 18, 18)",
-            "toolbar_field_separator": "rgba(18, 18, 18, 0.2)",
+            "toolbar_field_separator": "rgb(18, 18, 18, 0.2)",
 
             "toolbar_field_focus": "rgb(18, 18, 18)",
             "toolbar_field_border_focus": "rgb(30, 30, 30)",
