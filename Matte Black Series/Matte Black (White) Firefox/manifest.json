@@ -2,7 +2,7 @@
     "name": "Matte Black (White)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2021.1.16",
+    "version": "2021.7.2",
     "theme": {
         "colors": {
             "frame": "rgb(0, 0, 0)",
@@ -22,7 +22,7 @@
             "toolbar_vertical_separator": "rgb(170, 170, 170)",
 
             "toolbar_field": "rgb(18, 18, 18)",
-            "toolbar_field_text": "rgb(255, 255, 255)",
+            "toolbar_field_text": "rgb(200, 200, 200)",
             "toolbar_field_border": "rgb(18, 18, 18)",
             "toolbar_field_separator": "rgba(18, 18, 18, 0.2)",
 
@@ -31,11 +31,11 @@
 
             "button_background_hover": "rgba(200, 200, 200, 0.12)",
             "button_background_active": "rgba(255, 255, 255, 0.15)",
-            "icons": "rgb(255, 255, 255)",
-            "bookmark_text": "rgb(255, 255, 255)",
+            "icons": "rgb(169, 169, 169)",
+            "bookmark_text": "rgb(170, 170, 170)",
 
             "popup": "rgb(18, 18, 18)",
-            "popup_text": "rgb(255, 255, 255)",
+            "popup_text": "rgb(200, 200, 200)",
             "popup_border": "rgb(18, 18, 18)",
             "popup_highlight": "#21252b",
             "popup_highlight_text": "rgb(255, 255, 255)",
@@ -44,7 +44,7 @@
             "ntp_text": "rgb(170, 170, 170)",
 
             "sidebar": "rgb(35, 35, 35)",
-            "sidebar_text": "rgb(255, 255, 255)",
+            "sidebar_text": "rgb(170, 170, 170)",
             "sidebar_border": "rgb(18, 18, 18)",
             "sidebar_highlight": "#21252b",
             "sidebar_highlight_text": "rgb(255, 255, 255)"
