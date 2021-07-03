@@ -1,7 +1,8 @@
-from zipfile import ZipFile
+#!/usr/bin/env python
 import os
-from shutil import rmtree
 from glob import glob
+from shutil import rmtree
+from zipfile import ZipFile
 
 rmtree('Builds', ignore_errors=True)
 os.makedirs('Builds', exist_ok=True)
