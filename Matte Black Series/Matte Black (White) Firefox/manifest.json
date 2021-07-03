@@ -2,7 +2,7 @@
     "name": "Matte Black (White)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2021.7.2",
+    "version": "2021.7.3",
     "theme": {
         "colors": {
             "frame": "rgb(0, 0, 0)",
@@ -22,7 +22,7 @@
             "toolbar_vertical_separator": "rgb(170, 170, 170)",
 
             "toolbar_field": "rgb(18, 18, 18)",
-            "toolbar_field_text": "rgb(200, 200, 200)",
+            "toolbar_field_text": "rgb(255, 255, 255)",
             "toolbar_field_border": "rgb(18, 18, 18)",
             "toolbar_field_separator": "rgba(18, 18, 18, 0.2)",
 
