@@ -30,6 +30,16 @@ You can support me at monero:42hpQgwfvFw6RXpmcXHBJ85cZs9yF97kqfV3JpycnanG7JazfdL
 - [Firefox Plexus Crystals (Orange)](https://addons.mozilla.org/addon/plexus-crystals-orange/)
 - [Firefox Plexus Crystals (Yellow)](https://addons.mozilla.org/addon/plexus-crystals-yellow/)
 
+# Building from source
+
+In order to test changes locally you can build and load the add-ons directly after modifying the source code.
+
+Run the `build.py` script to build the zip files in the `Builds` folder.
+
+On Firefox, go to `about:addons`, click the cog icon and go to "Debug Add-ons".
+
+In the new screen click on "Load Temporary Add-on..." and select the zip archive of the them you want to use. The add-on is now loaded and you can directly see your changes.
+
 
 <!-- # Screenshots -->
 <!-- <img src="https://raw.githubusercontent.com/elibroftw/matte-black-theme/master/Matte%20Black%20Theme%20Resources/Firefox%20Screenshot.jpg" alt="Firefox (Red Accent)" height="500px"/> -->
