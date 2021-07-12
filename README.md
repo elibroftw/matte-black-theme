@@ -38,7 +38,7 @@ Run the `build.py` script to build the zip files in the `Builds` folder.
 
 On Firefox, go to `about:addons`, click the cog icon and go to "Debug Add-ons".
 
-In the new screen click on "Load Temporary Add-on..." and select the zip archive of the them you want to use. The add-on is now loaded and you can directly see your changes.
+In the new screen click on "Load Temporary Add-on..." and select the zip archive of the theme you want to use. The add-on is now loaded and you can directly see your changes.
 
 
 <!-- # Screenshots -->
