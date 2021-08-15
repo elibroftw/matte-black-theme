@@ -1,8 +1,8 @@
 {
-    "name": "Plexus Beams (Sky Blue)",
+    "name": "Plexus Crystals (Green)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2021.3.11",
+    "version": "2021.8.15",
     "theme": {
         "images": {
             "additional_backgrounds": ["header.png"]
@@ -15,9 +15,9 @@
             "tab_background_text": "rgb(255, 255, 255)",
             "tab_background_separator": "rgba(255, 255, 255, 0.5)",
 
-            "tab_line": "#00ffff",
-            "tab_loading": "#00ffff",
-            "icons_attention": "#00ffff",
+            "tab_line": "#32cd32",
+            "tab_loading": "#32cd32",
+            "icons_attention": "#32cd32",
 
             "toolbar": "rgb(35, 35, 35)",
             "toolbar_top_separator": "rgb(35, 35, 35)",
