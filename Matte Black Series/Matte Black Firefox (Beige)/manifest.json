@@ -1,0 +1,53 @@
+{
+    "name": "Matte Black (Beige)",
+    "author": "Elijah Lopez",
+    "manifest_version": 2,
+    "version": "2021.9.15",
+    "theme": {
+        "colors": {
+            "frame": "rgb(0, 0, 0)",
+            "frame_inactive": "rgb(0, 0, 0)",
+
+            "tab_text": "rgb(255, 255, 255)",
+            "tab_background_text": "rgb(170, 170, 170)",
+            "tab_background_separator": "rgba(255, 255, 255, 0.5)",
+
+            "tab_line": "#d6bc99",
+            "tab_loading": "#d6bc99",
+            "icons_attention": "#d6bc99",
+
+            "toolbar": "rgb(35, 35, 35)",
+            "toolbar_top_separator": "rgb(35, 35, 35)",
+            "toolbar_bottom_separator": "rgb(35, 35, 35)",
+            "toolbar_vertical_separator": "rgb(170, 170, 170)",
+
+            "toolbar_field": "rgb(18, 18, 18)",
+            "toolbar_field_text": "rgb(200, 200, 200)",
+            "toolbar_field_border": "rgb(18, 18, 18)",
+            "toolbar_field_separator": "rgba(18, 18, 18, 0.2)",
+
+            "toolbar_field_focus": "rgb(18, 18, 18)",
+            "toolbar_field_border_focus": "rgb(30, 30, 30)",
+
+            "button_background_hover": "rgba(200, 200, 200, 0.12)",
+            "button_background_active": "rgba(255, 255, 255, 0.15)",
+            "icons": "rgb(169, 169, 169)",
+            "bookmark_text": "rgb(170, 170, 170)",
+
+            "popup": "rgb(18, 18, 18)",
+            "popup_text": "rgb(200, 200, 200)",
+            "popup_border": "rgb(18, 18, 18)",
+            "popup_highlight": "#21252B",
+            "popup_highlight_text": "rgb(255, 255, 255)",
+
+            "ntp_background": "rgb(18, 18, 18)",
+            "ntp_text": "rgb(170, 170, 170)",
+
+            "sidebar": "rgb(35, 35, 35)",
+            "sidebar_text": "rgb(170, 170, 170)",
+            "sidebar_border": "rgb(18, 18, 18)",
+            "sidebar_highlight": "#21252b",
+            "sidebar_highlight_text": "rgb(170, 170, 170)"
+        }
+    }
+}
