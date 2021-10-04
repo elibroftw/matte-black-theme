@@ -12,9 +12,9 @@
             "tab_background_text": "rgb(190, 190, 190)",
             "tab_background_separator": "rgba(255, 255, 255, 0.5)",
 
-            "tab_line": "#ea4900",
-            "tab_loading": "#ea4900",
-            "icons_attention": "#ea4900",
+            "tab_line": "#ffa500",
+            "tab_loading": "#ffa500",
+            "icons_attention": "#ffa500",
 
             "toolbar": "rgb(35, 35, 35)",
             "toolbar_top_separator": "rgb(35, 35, 35)",
