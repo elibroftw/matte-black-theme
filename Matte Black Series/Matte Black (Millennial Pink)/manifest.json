@@ -2,7 +2,7 @@
     "name": "Matte Black (Millennial Pink)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2022.1.5",
+    "version": "2022.1.5.1",
     "theme": {
         "colors": {
             "frame": "rgb(0, 0, 0)",
