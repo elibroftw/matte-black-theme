@@ -1,8 +1,8 @@
 {
-    "name": "Matte Black (Millennial Pink)",
+    "name": "Matte Black (Pale Dogwood)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2022.1.5.1",
+    "version": "2022.1.6",
     "theme": {
         "colors": {
             "frame": "rgb(0, 0, 0)",
@@ -12,9 +12,9 @@
             "tab_background_text": "rgb(190, 190, 190)",
             "tab_background_separator": "rgba(255, 255, 255, 0.5)",
 
-            "tab_line": "#f3Cfc6",
-            "tab_loading": "#f3Cfc6",
-            "icons_attention": "#f3Cfc6",
+            "tab_line": "#dc9e88",
+            "tab_loading": "#dc9e88",
+            "icons_attention": "#dc9e88",
 
             "toolbar": "rgb(35, 35, 35)",
             "toolbar_top_separator": "rgb(35, 35, 35)",
