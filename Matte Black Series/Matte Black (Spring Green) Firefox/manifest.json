@@ -2,7 +2,7 @@
     "name": "Matte Black (Spring Green)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2021.10.4",
+    "version": "2022.2.23",
     "theme": {
         "colors": {
             "frame": "rgb(0, 0, 0)",
@@ -16,9 +16,9 @@
             "tab_loading": "#00ff7f",
             "icons_attention": "#00ff7f",
 
-            "toolbar": "rgb(35, 35, 35)",
-            "toolbar_top_separator": "rgb(35, 35, 35)",
-            "toolbar_bottom_separator": "rgb(35, 35, 35)",
+            "toolbar": "rgb(32, 32, 32)",
+            "toolbar_top_separator": "rgb(32, 32, 32)",
+            "toolbar_bottom_separator": "rgb(32, 32, 32)",
             "toolbar_vertical_separator": "rgb(170, 170, 170)",
 
             "toolbar_field": "rgb(18, 18, 18)",
@@ -43,7 +43,7 @@
             "ntp_background": "rgb(18, 18, 18)",
             "ntp_text": "rgb(170, 170, 170)",
 
-            "sidebar": "rgb(35, 35, 35)",
+            "sidebar": "rgb(32, 32, 32)",
             "sidebar_text": "rgb(170, 170, 170)",
             "sidebar_border": "rgb(18, 18, 18)",
             "sidebar_highlight": "#21252b",

@@ -2,7 +2,7 @@
     "name": "Matte White",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2020.10.20",
+    "version": "2022.2.23",
     "theme": {
         "colors": {
             "frame": "#f2f3f4",

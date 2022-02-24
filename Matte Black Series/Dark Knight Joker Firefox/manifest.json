@@ -2,7 +2,7 @@
     "name": "Dark Knight Joker",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2020.10.20",
+    "version": "2022.2.23",
     "theme": {
         "colors": {
             "frame": "rgb(0, 0, 0)",
@@ -17,9 +17,9 @@
             "icons_attention": "rgb(138, 43, 226)",
 
             "toolbar": "rgba(35, 35, 35, 1)",
-            "toolbar_top_separator": "rgb(35, 35, 35)",
-            "toolbar_bottom_separator": "rgb(35, 35, 35)",
-            "toolbar_vertical_separator": "rgb(35, 35, 35)",
+            "toolbar_top_separator": "rgb(32, 32, 32)",
+            "toolbar_bottom_separator": "rgb(32, 32, 32)",
+            "toolbar_vertical_separator": "rgb(32, 32, 32)",
 
             "toolbar_field": "rgb(18, 18, 18)",
             "toolbar_field_text": "rgb(200, 200, 200)",
@@ -43,7 +43,7 @@
             "ntp_background": "rgb(18, 18, 18)",
             "ntp_text": "#228B22",
 
-            "sidebar": "rgb(35, 35, 35)",
+            "sidebar": "rgb(32, 32, 32)",
             "sidebar_text": "rgb(170, 170, 170)",
             "sidebar_border": "rgb(18, 18, 18)",
             "sidebar_highlight": "#21252B",

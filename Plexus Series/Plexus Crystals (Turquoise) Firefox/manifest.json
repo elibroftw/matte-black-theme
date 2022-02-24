@@ -2,7 +2,7 @@
     "name": "Plexus Crystals (Turquoise)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2021.3.11",
+    "version": "2022.2.23",
     "theme": {
         "images": {
             "additional_backgrounds": ["header.png"]
@@ -19,10 +19,10 @@
             "tab_loading": "#00ffff",
             "icons_attention": "#00ffff",
 
-            "toolbar": "rgb(35, 35, 35)",
-            "toolbar_top_separator": "rgb(35, 35, 35)",
-            "toolbar_bottom_separator": "rgb(35, 35, 35)",
-            "toolbar_vertical_separator": "rgb(35, 35, 35)",
+            "toolbar": "rgb(32, 32, 32)",
+            "toolbar_top_separator": "rgb(32, 32, 32)",
+            "toolbar_bottom_separator": "rgb(32, 32, 32)",
+            "toolbar_vertical_separator": "rgb(32, 32, 32)",
 
             "toolbar_field": "rgb(18, 18, 18)",
             "toolbar_field_text": "rgb(200, 200, 200)",
@@ -46,7 +46,7 @@
             "ntp_background": "rgb(18, 18, 18)",
             "ntp_text": "rgb(180, 180, 180)",
 
-            "sidebar": "rgb(35, 35, 35)",
+            "sidebar": "rgb(32, 32, 32)",
             "sidebar_text": "rgb(180, 180, 180)",
             "sidebar_border": "rgb(18, 18, 18)",
             "sidebar_highlight": "#21252B",

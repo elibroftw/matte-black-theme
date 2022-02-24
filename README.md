@@ -1,13 +1,15 @@
-# My Themes for Chromium and Firefox
+# Matte Black Type Themes for Chromium and Firefox
+
 [![Matte Black (White)](https://img.shields.io/amo/users/matte-black-red.svg?label=Firefox&style=for-the-badge&color=black)](https://addons.mozilla.org/addon/matte-black-red/)
 [![Chrome](https://img.shields.io/chrome-web-store/users/ioadlgcadgdbcchobmhlipionnphmfja.svg?label=Chrome&style=for-the-badge&color=black)](https://chrome.google.com/webstore/detail/ioadlgcadgdbcchobmhlipionnphmfja)
 
 Here are the themes I made for Firefox and Chrome.
 You can support me at monero:42hpQgwfvFw6RXpmcXHBJ85cZs9yF97kqfV3JpycnanG7JazfdL4WHkVLuR8rcM64q6LHt547nKeeYaixBdCQYaHSuEnAuj or [https://www.paypal.me/elibroftw](https://www.paypal.me/elibroftw).
 
-# Links
+## Links
 
-## Matte Black Series
+### Matte Black Series
+
 - [Chrome Matte Black](https://chrome.google.com/webstore/detail/ioadlgcadgdbcchobmhlipionnphmfja)
 - [Firefox Matte Black (Red)](https://addons.mozilla.org/addon/matte-black-red/)
 - [Firefox Matte Black (Orange)](https://addons.mozilla.org/addon/matte-black-orange/)
@@ -23,23 +25,24 @@ You can support me at monero:42hpQgwfvFw6RXpmcXHBJ85cZs9yF97kqfV3JpycnanG7JazfdL
 - [Firefox Matte Black (Green)](https://addons.mozilla.org/addon/matte-black-green/)
 - [Firefox Matte Black (Spring Green)](https://addons.mozilla.org/addon/matte-black-spring-green/)
 
-## Plexus Series
+### Plexus Series
+
 - [Chrome Plexus Crystals](https://chrome.google.com/webstore/detail/ojmfjbdihaiihhfgoepflhbkcoepdmob/)
 - [Firefox Plexus Crystals (Sky Blue)](https://addons.mozilla.org/addon/plexus-crystals-sky-blue/) | Personal Favorite
 - [Firefox Plexus Crystals (Turqouise)](https://addons.mozilla.org/addon/plexus-crystals-turquoise/)
 - [Firefox Plexus Crystals (Orange)](https://addons.mozilla.org/addon/plexus-crystals-orange/)
 - [Firefox Plexus Crystals (Yellow)](https://addons.mozilla.org/addon/plexus-crystals-yellow/)
 
-# Building from source
+## Note for Myself
 
-In order to test changes locally you can build and load the add-ons directly after modifying the source code.
+`[0-9]{4}\.[0-9]{1,2}\.[0-9]{1,2}` is the regex to match the version string in all `manifest.json`
 
-Run the `build.py` script to build the zip files in the `Builds` folder.
+## Building from source
 
-On Firefox, go to `about:addons`, click the cog icon and go to "Debug Add-ons".
-
-In the new screen click on "Load Temporary Add-on..." and select the zip archive of the theme you want to use. The add-on is now loaded and you can directly see your changes.
-
+1. To test changes, you can build and load the add-ons directly after modifying the source code
+2. Run the `build.py` script to build the zip files in the `Builds` folder
+3. On Firefox, go to `about:addons`, click the cog icon and go to "Debug Add-ons".
+4. In the new screen click on "Load Temporary Add-on..." and select the zip archive of the theme you want to use. The add-on is now loaded and you can directly see your changes.
 
 <!-- # Screenshots -->
 <!-- <img src="https://raw.githubusercontent.com/elibroftw/matte-black-theme/master/Matte%20Black%20Theme%20Resources/Firefox%20Screenshot.jpg" alt="Firefox (Red Accent)" height="500px"/> -->
