@@ -11,19 +11,20 @@ You can support me at monero:42hpQgwfvFw6RXpmcXHBJ85cZs9yF97kqfV3JpycnanG7JazfdL
 ### Matte Black Series
 
 - [Chrome Matte Black](https://chrome.google.com/webstore/detail/ioadlgcadgdbcchobmhlipionnphmfja)
+- [Firefox Matte Black](https://addons.mozilla.org/addon/matte-black-v1/)
+- [Firefox Matte Black (Sky Blue)](https://addons.mozilla.org/addon/matte-black-sky-blue/) | Personal Favorite
 - [Firefox Matte Black (Red)](https://addons.mozilla.org/addon/matte-black-red/)
 - [Firefox Matte Black (Orange)](https://addons.mozilla.org/addon/matte-black-orange/)
 - [Firefox Matte Black (White)](https://addons.mozilla.org/addon/matte-black-theme/)
-- [Firefox Matte Black (Grey)](https://addons.mozilla.org/addon/matte-black-grey/)
 - [Firefox Matte Black (Blue)](https://addons.mozilla.org/addon/matte-black-blue/)
 - [Firefox Matte Black (Classic Blue)](https://github.com/elibroftw/matte-black-theme/releases)
-- [Firefox Matte Black (Sky Blue)](https://addons.mozilla.org/addon/matte-black-sky-blue/) | Personal Favorite
 - [Firefox Matte Black (Cyan)](https://github.com/elibroftw/matte-black-theme/releases)
 - [Firefox Matte Black (Violet)](https://addons.mozilla.org/addon/matte-black-violet/)
 - [Firefox Dark Knight Joker](https://addons.mozilla.org/addon/dark-knight-joker-theme/)
 - [Firefox Matte Black (Pink)](https://addons.mozilla.org/addon/matte-black-pink/)
 - [Firefox Matte Black (Green)](https://addons.mozilla.org/addon/matte-black-green/)
 - [Firefox Matte Black (Spring Green)](https://addons.mozilla.org/addon/matte-black-spring-green/)
+- [Firefox Matte Black Cyan and Classic Blue](https://github.com/elibroftw/matte-black-theme/releases)
 
 ### Plexus Series
 
