@@ -4,7 +4,7 @@
 [![Chrome](https://img.shields.io/chrome-web-store/users/ioadlgcadgdbcchobmhlipionnphmfja.svg?label=Chrome&style=for-the-badge&color=black)](https://chrome.google.com/webstore/detail/ioadlgcadgdbcchobmhlipionnphmfja)
 
 Here are the themes I made for Firefox and Chrome.
-You can support me at monero:42hpQgwfvFw6RXpmcXHBJ85cZs9yF97kqfV3JpycnanG7JazfdL4WHkVLuR8rcM64q6LHt547nKeeYaixBdCQYaHSuEnAuj or [https://www.paypal.me/elibroftw](https://www.paypal.me/elibroftw).
+You can support me at monero:84PR6SkYd5zaFLKDjAFrQfbaAg2c7SV3q3XDZ15QCpEZUggrN4YzY7n8m9XC3deXjo41yWHTm1LrsUpPTYGnRQbD9Cwp8En or [https://www.paypal.me/elibroftw](https://www.paypal.me/elibroftw).
 
 ## Links
 
