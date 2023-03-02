@@ -14,8 +14,9 @@ def build_zips(series_name):
         zip_name = folder.replace('\\', '/').split('/')[1]
         with ZipFile(f'Builds/{zip_name}.zip', 'w') as zf:
             for file in glob(f'{folder}/**/*.*', recursive=True):
-                new_name = file.replace('\\', '/').split('/', 2)[2]
-                zf.write(file, new_name)
+                if not file.endswith('.pak'):
+                    new_name = file.replace('\\', '/').split('/', 2)[2]
+                    zf.write(file, new_name)
 
 
 for series in ('Matte Black Series', 'Plexus Series', 'Carbon Fiber Series'):
