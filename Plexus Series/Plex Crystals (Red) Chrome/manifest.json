@@ -1,7 +1,7 @@
 {
-    "version": "2023.3.30",
+    "version": "2023.4.4",
     "description": "A theme made using Plexus, with a red accent",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Plexus Crystals (Red)",
     "icons": {
         "16": "icons/icon16.png",

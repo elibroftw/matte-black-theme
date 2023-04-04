@@ -1,7 +1,7 @@
 {
     "version": "2022.2.23",
     "description": "A modern Matte Black theme",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Matte Black Theme",
     "short_name": "Matte Black",
     "icons": {
