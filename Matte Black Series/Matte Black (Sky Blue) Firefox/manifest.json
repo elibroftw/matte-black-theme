@@ -46,7 +46,7 @@
             "sidebar": "rgb(32, 32, 32)",
             "sidebar_text": "rgb(170, 170, 170)",
             "sidebar_border": "rgb(18, 18, 18)",
-            "sidebar_highlight": "#21252B",
+            "sidebar_highlight": "#21252b",
             "sidebar_highlight_text": "rgb(170, 170, 170)"
         }
     }

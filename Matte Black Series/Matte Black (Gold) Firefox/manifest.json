@@ -1,8 +1,8 @@
 {
-    "name": "Matte Black (Green)",
+    "name": "Matte Black (Gold)",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2022.2.23",
+    "version": "2023.4.26",
     "theme": {
         "colors": {
             "frame": "rgb(0, 0, 0)",
@@ -12,9 +12,9 @@
             "tab_background_text": "rgb(190, 190, 190)",
             "tab_background_separator": "rgba(255, 255, 255, 0.5)",
 
-            "tab_line": "#32cd32",
-            "tab_loading": "#32cd32",
-            "icons_attention": "#32cd32",
+            "tab_line": "#d4af37",
+            "tab_loading": "#d4af37",
+            "icons_attention": "#d4af37",
 
             "toolbar": "rgb(32, 32, 32)",
             "toolbar_top_separator": "rgb(32, 32, 32)",
@@ -37,7 +37,7 @@
             "popup": "rgb(18, 18, 18)",
             "popup_text": "rgb(200, 200, 200)",
             "popup_border": "rgb(18, 18, 18)",
-            "popup_highlight": "#21252B",
+            "popup_highlight": "#21252b",
             "popup_highlight_text": "rgb(255, 255, 255)",
 
             "ntp_background": "rgb(18, 18, 18)",
