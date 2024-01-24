@@ -2,7 +2,7 @@
     "name": "Matte White",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2022.2.23",
+    "version": "2024.1.24",
     "theme": {
         "colors": {
             "frame": "#f2f3f4",
@@ -10,7 +10,6 @@
 
             "tab_text": "#000",
             "tab_background_text": "rgb(80, 80, 80)",
-            "tab_background_separator": "rgba(255, 255, 255, 0.5)",
 
             "tab_line": "#00bfff",
             "tab_loading": "#00bfff",
@@ -24,7 +23,7 @@
             "toolbar_field": "#f2f3f4",
             "toolbar_field_text": "#000",
             "toolbar_field_border": "#fff",
-            "toolbar_field_separator": "rgba(230, 230, 230, 0.2)",
+
 
             "toolbar_field_focus": "rgb(230, 230, 230)",
             "toolbar_field_border_focus": "rgb(220, 220, 220)",

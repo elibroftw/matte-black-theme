@@ -36,7 +36,8 @@ You can support me at monero:84PR6SkYd5zaFLKDjAFrQfbaAg2c7SV3q3XDZ15QCpEZUggrN4Y
 
 ## Note for Myself
 
-`[0-9]{4}\.[0-9]{1,2}\.[0-9]{1,2}` is the regex to match the version string in all `manifest.json`
+- `[0-9]{4}\.[0-9]{1,2}\.[0-9]{1,2}` is the regex to match the version string in all `manifest.json`
+- [Firefox theme manifest documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme)
 
 ## Building from source
 

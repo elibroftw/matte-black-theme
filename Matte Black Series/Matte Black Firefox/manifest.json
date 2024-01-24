@@ -2,7 +2,7 @@
     "name": "Matte Black",
     "author": "Elijah Lopez",
     "manifest_version": 2,
-    "version": "2024.1.24",
+    "version": "2024.1.25",
     "theme": {
         "colors": {
             "frame": "rgba(0, 0, 0)",
@@ -10,7 +10,6 @@
 
             "tab_text": "rgb(255, 255, 255)",
             "tab_background_text": "rgb(190, 190, 190)",
-            "tab_background_separator": "rgba(255, 255, 255, 0.5)",
 
             "tab_line": "rgb(32, 32, 32)",
             "tab_loading": "rgb(211, 211, 211)",
@@ -25,7 +24,7 @@
             "toolbar_field": "rgb(18, 18, 18)",
             "toolbar_field_text": "rgb(200, 200, 200)",
             "toolbar_field_border": "rgb(18, 18, 18)",
-            "toolbar_field_separator": "rgba(18, 18, 18, 0.2)",
+
 
             "toolbar_field_focus": "rgb(18, 18, 18)",
             "toolbar_field_border_focus": "rgb(30, 30, 30)",
