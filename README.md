@@ -30,12 +30,6 @@ Here, you can find themes I created for Firefox and Chrome. You can support my w
 - [Firefox Matte Black (Blue)](https://addons.mozilla.org/addon/matte-black-blue/)
 <img src="https://github.com/caref2/matte-black-theme/blob/master/images/Firefox%20Matte%20Black%20(Blue).svg">
 
-- [Firefox Matte Black (Classic Blue)](https://github.com/elibroftw/matte-black-theme/releases)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Firefox%20Matte%20Black%20(Classic%20Blue).png" width="720">
-
-- [Firefox Matte Black (Cyan)](https://github.com/elibroftw/matte-black-theme/releases)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Firefox%20Matte%20Black%20(Cyan).png" width="720">
-
 - [Firefox Matte Black (Violet)](https://addons.mozilla.org/addon/matte-black-violet/)
 <img src="https://github.com/caref2/matte-black-theme/blob/master/images/Matte%20Black%20(Violet).svg">
 
@@ -52,7 +46,8 @@ Here, you can find themes I created for Firefox and Chrome. You can support my w
 <img src="https://github.com/caref2/matte-black-theme/blob/master/images/Matte%20Black%20(Spring%20Green).svg">
 
 - [Firefox Matte Black Cyan and Classic Blue](https://github.com/elibroftw/matte-black-theme/releases)
-<img src="">
+<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Firefox%20Matte%20Black%20(Classic%20Blue).png" width="720">
+<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Firefox%20Matte%20Black%20(Cyan).png" width="720">
 
 
 ### Plexus Series
