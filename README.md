@@ -10,62 +10,62 @@ Here, you can find themes I created for Firefox and Chrome. You can support my w
 ### Matte Black Series
 
 - [Chrome Matte Black](https://chrome.google.com/webstore/detail/ioadlgcadgdbcchobmhlipionnphmfja)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/Resources/Chrome%20Matte%20Black.png" width="720">
+<img src="images/Chrome Matte Black.png" alt="Description of the image" width="720"/>
 
 - [Firefox Matte Black](https://addons.mozilla.org/addon/matte-black-v1/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Matte%20Black.svg">
+<img src="images/Firefox Matte Black.svg" alt="Description of the image" width="720"/>
 
 - [Firefox Matte Black (Sky Blue)](https://addons.mozilla.org/addon/matte-black-sky-blue/) | 🌟 Personal Favorite
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Firefox%20Matte%20Black%20(Sky%20Blue).svg">
+<img src="images/Firefox Matte Black (Sky Blue).svg" alt="Description of the image" width="720"/>
 
 - [Firefox Matte Black (Red)](https://addons.mozilla.org/addon/matte-black-red/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Firefox%20Matte%20Black%20(Red).svg">
+<img src="images/Firefox Matte Black (Red).svg" alt="Description of the image" width="720"/>
 
 - [Firefox Matte Black (Orange)](https://addons.mozilla.org/addon/matte-black-orange/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Firefox%20Matte%20Black%20(Orange).svg">
+<img src="images/Firefox Matte Black (Orange).svg" alt="Description of the image" width="720"/>
 
 - [Firefox Matte Black (White)](https://addons.mozilla.org/addon/matte-black-theme/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Firefox%20Matte%20Black%20(White).svg">
+<img src="images/Firefox Matte Black (White).svg" alt="Description of the image" width="720"/>
 
 - [Firefox Matte Black (Blue)](https://addons.mozilla.org/addon/matte-black-blue/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Firefox%20Matte%20Black%20(Blue).svg">
+<img src="images/Firefox Matte Black (Blue).svg" alt="Description of the image" width="720"/>
 
 - [Firefox Matte Black (Violet)](https://addons.mozilla.org/addon/matte-black-violet/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Matte%20Black%20(Violet).svg">
+<img src="images/Matte Black (Violet).svg" alt="Description of the image" width="720"/>
 
 - [Firefox Dark Knight Joker](https://addons.mozilla.org/addon/dark-knight-joker-theme/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Dark%20Knight%20Joker.svg">
+<img src="images/Dark Knight Joker.svg" alt="Description of the image" width="720"/>
 
 - [Firefox Matte Black (Pink)](https://addons.mozilla.org/addon/matte-black-pink/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Matte%20Black%20(Pink).svg">
+<img src="images/Matte Black (Pink).svg" alt="Description of the image" width="720"/>
 
 - [Firefox Matte Black (Green)](https://addons.mozilla.org/addon/matte-black-green/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Matte%20Black%20(Green).svg">
+<img src="images/Matte Black (Green).svg" alt="Description of the image" width="720"/>
 
 - [Firefox Matte Black (Spring Green)](https://addons.mozilla.org/addon/matte-black-spring-green/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Matte%20Black%20(Spring%20Green).svg">
+<img src="images/Matte Black (Spring Green).svg" alt="Description of the image" width="720"/>
 
 - [Firefox Matte Black Cyan and Classic Blue](https://github.com/elibroftw/matte-black-theme/releases)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Firefox%20Matte%20Black%20(Classic%20Blue).png" width="720">
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Firefox%20Matte%20Black%20(Cyan).png" width="720">
+<img src="images/Firefox Matte Black (Cyan).png" alt="Description of the image" width="720"/>
+<img src="images/Firefox Matte Black (Classic Blue).png" alt="Description of the image" width="720"/>
 
 
 ### Plexus Series
 
 - [Chrome Plexus Crystals](https://chrome.google.com/webstore/detail/ojmfjbdihaiihhfgoepflhbkcoepdmob/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Chrome%20Plexus%20Crystals.png" width="720">
+<img src="images/Chrome Plexus Crystals.png" alt="Description of the image" width="720"/>
 
 - [Firefox Plexus Crystals (Sky Blue)](https://addons.mozilla.org/addon/plexus-crystals-sky-blue/) | 🌟 Personal Favorite
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Plexus%20Crystals%20(Sky%20Blue).svg">
+<img src="images/Plexus Crystals (Sky Blue).svg" alt="Description of the image" width="720"/>
 
 - [Firefox Plexus Crystals (Turquoise)](https://addons.mozilla.org/addon/plexus-crystals-turquoise/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Plexus%20Crystals%20(Turquoise).svg">
+<img src="images/Plexus Crystals (Turquoise).svg" alt="Description of the image" width="720"/>
 
 - [Firefox Plexus Crystals (Orange)](https://addons.mozilla.org/addon/plexus-crystals-orange/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Plexus%20Crystals%20(Orange).svg">
+<img src="images/Plexus Crystals (Orange).svg" alt="Description of the image" width="720"/>
 
 - [Firefox Plexus Crystals (Yellow)](https://addons.mozilla.org/addon/plexus-crystals-yellow/)
-<img src="https://github.com/caref2/matte-black-theme/blob/master/images/Plexus%20Crystals%20(Yellow).svg">
+<img src="images/Plexus Crystals (Yellow).svg" alt="Description of the image" width="720"/>
 
 
 ## 📝 Note for Myself
