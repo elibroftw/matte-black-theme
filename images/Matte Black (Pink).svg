@@ -1,0 +1,51 @@
+
+
+
+<svg id="preview-svg-root" width="720" height="92" xmlns="http://www.w3.org/2000/svg"
+     version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:svgjs="http://svgjs.com/svgjs" font-size="16px" font-family="Helvetica, Arial, sans-serif">
+    <defs>
+            </defs>
+    <g transform="scale(1)">
+        <rect width="720" height="92"
+              class="frame fill" fill="rgb(0,0,0)" data-fill="rgba(229,230,232,1)"></rect>
+        <image id="svg-header-img" width="720" height="92" preserveAspectRatio="xMaxYMin slice"
+               xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABcAtADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5UooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//Z"></image>
+        
+        <rect class="toolbar fill" fill="rgb(32,32,32)"
+            width="720" height="48" y="44"
+            data-fill="rgba(255,255,255,0.6)"/>
+        <rect id="svg-selected-tab" class="tab_selected toolbar fill" fill="rgb(32,32,32)"
+            width="166" height="34" x="28" y="5" rx="4"
+            data-fill="rgba(255,255,255,0.6)" stroke="transparent" stroke-width="1.5"/>
+        <rect class="tab_line stroke" stroke="#ff1493"
+            width="166" height="34" x="28" y="5" rx="4"
+            fill="transparent" data-stroke="rgba(0,0,0,0.25)" stroke-width="1.5"/>
+        <rect class="bookmark_text fill" fill="rgb(170,170,170)"
+            width="121" height="4" x="51" y="20" rx="2"
+            data-fallback="tab_background_text" />
+        <rect class="tab_background_text fill" fill="rgb(190,190,190)"
+            width="121" height="4" x="221" y="20" rx="2" />
+        <rect id="svg-url-field" class="toolbar_field fill" fill="rgb(18,18,18)"
+            width="528" height="32" x="114" y="52" rx="4"
+            data-fill="rgba(255,255,255,1)"/>
+        <rect id="svg-url-field-text" class="toolbar_field_text fill" fill="rgb(200,200,200)"
+            width="342" height="4" x="146" y="66" rx="2.2"/>
+        <circle class="toolbar_field_text stroke" stroke="rgb(200,200,200)"
+            cx="130" cy="68" r="6.25"
+            data-stroke="rgba(0,0,0,1)" stroke-width="1.5" fill="transparent"/>
+        <circle class="bookmark_text stroke" stroke="rgb(169,169,169)"
+            cx="24" cy="68" r="6.25"
+            data-stroke="rgba(0,0,0,1)" data-fallback="tab_background_text" stroke-width="1.5" fill="transparent" />
+        <circle class="bookmark_text stroke" stroke="rgb(169,169,169)"
+            cx="60" cy="68" r="6.25"
+            data-stroke="rgba(0,0,0,1)" data-fallback="tab_background_text" stroke-width="1.5" fill="transparent" />
+        <g transform="translate(689 61.75)"
+            class="bookmark_text fill" fill="rgb(169,169,169)"
+            data-fallback="tab_background_text">
+          <rect width="14" height="1.5" rx="1.333"/>
+          <rect width="14" height="1.5" y="6" rx="1.333"/>
+          <rect width="14" height="1.5" y="12" rx="1.333"/>
+        </g>
+    </g>
+</svg>
